@@ -1,1 +1,2 @@
 # MotorLicense
+JAVA 17 TOMCAT10 JAKARTA EE 10
